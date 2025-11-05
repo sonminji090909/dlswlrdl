@@ -6,4 +6,4 @@ if st.button('인사말 생성'):
    st.write(a+'님아 안녕하시긔')
    st.warning(b+'를 좋아하노? 난 싫어하긔;')
    st.error('반갑진 않긔')
-   st.balloons()
+   st.pigs()
